@@ -1,0 +1,10 @@
+streamlit
+google-genai
+openai-whisper
+gtts
+pillow
+diffusers
+transformers
+accelerate
+torch
+huggingface_hub
